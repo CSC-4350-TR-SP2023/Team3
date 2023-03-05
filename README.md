@@ -1,2 +1,3 @@
 # Team3
-Graphical Password
+Project: Graphical Password
+Members: Indra Meyers, Masoud Seraji & Evan Harrigan
