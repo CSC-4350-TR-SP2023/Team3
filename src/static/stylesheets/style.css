@@ -32,6 +32,11 @@ button:hover {
     background-color: #303030;
 }
 
+.reset{
+    float: right;
+    margin-top: 1%;
+    margin-right: 1%;
+}
 /*************START HOMEPAGE*************/
 #homepage-image {
     margin-top: 3%;
@@ -106,6 +111,7 @@ button:hover {
 
 #login2-select {
     padding-top: 5%;
+    margin-left: 8%;
 }
 
 #login2-images {
@@ -193,6 +199,7 @@ button:hover {
 
 #signup2-select {
     padding-top: 5%;
+    margin-left: 8%;
 }
 
 #signup2-images {
@@ -237,6 +244,7 @@ button:hover {
 
 #signup3-select {
     padding-top: 5%;
+    margin-left: 8%;
 }
 
 #signup3-images {
